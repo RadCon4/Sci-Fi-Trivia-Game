@@ -1,7 +1,7 @@
 ## Sci-Fi-Trivia-Game
 
 ### Synopsis
-***
+This is a Sci-Fi Trivia app I created using JavaScript for the logic and jQuery to manipulate HTML. 
 
 INSERT SYNOPSIS.
 
@@ -18,7 +18,7 @@ https://radcon4.github.io/Sci-Fi-Trivia-Game/
          * reset.css
          * style.css
      * javascript
-         * game.js
+         * app.js
      * images
            
 ### Notes
