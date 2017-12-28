@@ -3,7 +3,7 @@
 ### Synopsis
 This is a Sci-Fi Trivia app I created using JavaScript for the logic and jQuery to manipulate HTML. 
 
-INSERT SYNOPSIS.
+Once started, the user has 120 seconds to answer six questions.  The app keeps track of the number of correct and incorrect answers.
 
 GitHub Deployement Page:
 
